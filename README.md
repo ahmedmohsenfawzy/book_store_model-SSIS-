@@ -71,7 +71,7 @@ The `book` table (visible in the DWH schema) holds the product catalogue: title,
 
 The DWH flattens and denormalises the OLTP model into a classic star schema optimised for analytical queries:
 
-![Data Warehouse Star Schema](https://raw.githubusercontent.com/ahmedmohsenfawzy/book_store_model-SSIS-/master/Screenshot%202026-02-23%20214658.png)
+![Data Warehouse Star Schema](https://raw.githubusercontent.com/ahmedmohsenfawzy/book_store_model-SSIS-/master/Screenshot%202026-06-09%112848.png)
 
 ### Fact Table
 
